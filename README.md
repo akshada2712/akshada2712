@@ -156,6 +156,12 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshada2712&" alt="akshada2712" /></p>
 
+<div align="center">
+    <a href="#">
+        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=akshada2712&color=lightgrey&style=plastic&&label=Profile+Views">
+    </a>
+</div> 
+
 <!-- <h2>🔝 Languages Stats</h2>
 <hr>
 <p align="center">
