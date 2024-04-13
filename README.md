@@ -142,7 +142,7 @@ Here are some ideas to get you started:
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushma-Nandiyawar&theme=dark&hide_border=true" />
 </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshada2712&label=Profile%20views&color=0e75b6&style=flat" alt="akshada2712" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshada2712" alt="akshada2712" /></a> </p>
 
