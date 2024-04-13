@@ -141,7 +141,22 @@ Here are some ideas to get you started:
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sushma-Nandiyawar&show_icons=true&theme=dark" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushma-Nandiyawar&theme=dark&hide_border=true" />
 </p> -->
-<h2>🔝 Languages Stats</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshada2712&label=Profile%20views&color=0e75b6&style=flat" alt="akshada2712" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshada2712" alt="akshada2712" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshada2712&show_icons=true&locale=en&layout=compact" alt="akshada2712" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshada2712&show_icons=true&locale=en" alt="akshada2712" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshada2712&" alt="akshada2712" /></p>
+
+<!-- <h2>🔝 Languages Stats</h2>
 <hr>
 <p align="center">
 <img alt="most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshada2712&layout=compact&theme=dark&langs_count=10" />
@@ -149,6 +164,6 @@ Here are some ideas to get you started:
     <a href="#">
         <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Sushma-Nandiyawar&color=lightgrey&style=plastic&&label=Profile+Views">
     </a>
-</div>
+</div> -->
 <!-- <details>
  <summary><h2>👩🏻‍💻 Sushma's Coding Journey</h2></summary> I -->
