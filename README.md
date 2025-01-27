@@ -161,14 +161,4 @@ Let’s discuss how we can collaborate to build impactful, cutting-edge solution
     </a>
 </div> 
 
-<!-- <h2>🔝 Languages Stats</h2>
-<hr>
-<p align="center">
-<img alt="most_used_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshada2712&layout=compact&theme=dark&langs_count=10" />
-<div align="center">
-    <a href="#">
-        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Sushma-Nandiyawar&color=lightgrey&style=plastic&&label=Profile+Views">
-    </a>
-</div> -->
-<!-- <details>
- <summary><h2>👩🏻‍💻 Sushma's Coding Journey</h2></summary> I -->
+
