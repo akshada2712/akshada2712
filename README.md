@@ -1,41 +1,40 @@
 
 ### Hi there 👋
 
-<!--
-**akshada2712/akshada2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Akshada Bhandari**, a **Software Developer** specializing in **Data Science**, **Machine Learning**, **Generative AI**, and **Backend Development**.  
+My expertise lies in developing **innovative, scalable systems** that leverage data-driven insights to solve real-world problems and enhance operational efficiency.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do:
 
-<!-- <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Sushma-Nandiyawar/Sushma-Nandiyawar/blob/main/Hi.gif" width="30"></h2>
-</div> --> 
-    
-<!-- <h2>Hi there 👋</h2> -->
-<p>
-    I am Akshada Bhandari, a highly motivated and skilled Computer Engineer with a strong passion for Software Development and Data Science. I possess a Master of Science in Computer Science from Indiana University, Bloomington and a Bachelor of Engineering in Computer Science. Throughout my academic and professional career, I have consistently demonstrated a talent for applying my technical expertise to solve complex problems and deliver impactful results.
-</p>
-<p>
-    My professional experience includes valuable internships at renowned organizations like Indiana University, Commvault, where I actively participated in developing algorithms, migrating legacy systems, developing data warehouse models and crafting data-driven solutions.
-</p>
-<!-- <p>
-    I am eager to leverage my passion for "Crafting code and insights into impactful solutions: where software development meets data analytics excellence". With expertise in algorithms, machine learning, and visualization, I bring a unique blend of technical powers and creative problem-solving to the table. 
-</p> -->
-<p>
-    Connect with me on 
-    <a href="https://www.linkedin.com/in/akshadabhandari/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>.
-</p>
+- 🧠 **Machine Learning & AI**: Expertise in building predictive models, time-series forecasting, NLP solutions, and leveraging LLMs to solve complex challenges.
+- 🛠 **Backend Development**: Proficient in Python, FastAPI, SQL, and creating scalable architectures for real-time decision-making.
+- 📊 **Data Science**: Passionate about extracting actionable insights through advanced analytics, with a focus on automation and workflow optimization.
+
+---
+
+## Recent Achievements:
+
+- **📈 Designed a real-time cryptocurrency analysis tool** using Python, Streamlit, and Coinbase APIs, enhancing market tracking and predictive analytics by **25%**.
+- **🤖 Built an AI-driven documentation tool** with Zephyr LLM, automating Python notebook documentation and saving **10+ hours per project**.
+- **💬 Developed a natural language SQL querying app** using LangChain, reducing database query generation time by **20%**.
+- **🚛 Streamlined last-mile delivery routes** with ML-powered clustering models, improving logistics efficiency by **20%**.
+- **📊 Built an interactive income analysis dashboard** for CRNY, aiding decision-making for over **1,000 artists**.
+- **📘 Created a role-based LMS platform** (Edumate) with React.js and Node.js, boosting user engagement by **20%**.
+- **🌾 Developed a Krushival Android app** connecting farmers directly with buyers, improving transaction efficiency by **30%**.
+- **🛰️ Achieved 96% accuracy in satellite image segmentation** using an optimized UNET model.
+- **📚 Implemented research paper classification** using LLM and GNN, reaching **72% accuracy** on the ogbn-papers100M dataset.
+
+---
+
+## Connect with Me:
+
+Let’s discuss how we can collaborate to build impactful, cutting-edge solutions!
+
+- [LinkedIn](https://www.linkedin.com/in/akshadabhandari/)
+- [GitHub](https://github.com/akshada2712/)
+  
 <h2>🎓 Education</h2>
 <hr>
 <p>
